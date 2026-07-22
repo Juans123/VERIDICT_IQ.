@@ -5,7 +5,7 @@ Proyecto de titulación — Maestría en Inteligencia Artificial Aplicada.
 
 ## Estado del repositorio
 
-Esta versión corresponde al **informe de resultados preliminares** y contiene una ejecución reproducible de los controles **B0** y del baseline **B1 (regresión logística regularizada)**.
+Esta versión contiene una ejecución reproducible de los controles **B0** y del baseline **B1 (regresión logística regularizada)**.
 
 > [!IMPORTANT]
 > Las métricas publicadas en esta versión fueron obtenidas con **360 registros sintéticos de contingencia**. El conjunto reproduce el esquema técnico previsto, pero no contiene causas, clientes ni decisiones judiciales reales. Los resultados validan el pipeline; **no permiten concluir el desempeño real de VERIDICT IQ en GRUND Abogados LLP®**.
