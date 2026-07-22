@@ -1,0 +1,361 @@
+case_id,fecha_cierre,materia,tipo_proceso,cuantia_inicial_usd,rol_cliente,instancia_en_t0,jurisdiccion,tipo_contraparte,medida_cautelar_solicitada,prueba_pericial_prevista,resultado_favorable
+SYN-0001,2020-01-15 00:00:00.000000000,Laboral,Despido intempestivo,91772.13,Demandado,Primera,Rumiñahui,Persona jurídica,1.0,0.0,1
+SYN-0002,2020-01-21 13:38:16.378830083,Civil,Monitorio,6822.47,Demandado,Primera,Quito Sur,Persona natural,0.0,,0
+SYN-0003,2020-01-28 03:16:32.757660167,Laboral,Haberes laborales,7408.86,Demandado,Primera,Quito Sur,Persona natural,0.0,,0
+SYN-0004,2020-02-03 16:54:49.136490251,Laboral,Despido intempestivo,68453.6,Demandado,Primera,Mejía,Persona jurídica,0.0,1.0,1
+SYN-0005,2020-02-10 06:33:05.515320334,Civil,Monitorio,14865.27,Demandado,Primera,Quito Sur,Persona jurídica,1.0,0.0,0
+SYN-0006,2020-02-16 20:11:21.894150418,Laboral,Despido intempestivo,,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0007,2020-02-23 09:49:38.272980502,Laboral,Haberes laborales,11563.3,Actor,Primera,Mejía,Persona natural,0.0,1.0,0
+SYN-0008,2020-02-29 23:27:54.651810585,Laboral,Despido intempestivo,,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0009,2020-03-07 13:06:11.030640669,Civil,Ejecutivo,20529.39,Actor,Primera,Rumiñahui,Persona jurídica,0.0,0.0,0
+SYN-0010,2020-03-14 02:44:27.409470753,Civil,Sumario,23303.43,Actor,Primera,Rumiñahui,Persona jurídica,1.0,0.0,1
+SYN-0011,2020-03-20 16:22:43.788300836,Civil,Sumario,86063.88,Demandado,Primera,,Persona natural,0.0,1.0,1
+SYN-0012,2020-03-27 06:01:00.167130920,Laboral,Visto bueno,12535.96,Actor,Primera,Quito Sur,Entidad pública,0.0,0.0,0
+SYN-0013,2020-04-02 19:39:16.545961004,Laboral,Haberes laborales,7023.42,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0014,2020-04-09 09:17:32.924791087,Laboral,Haberes laborales,11493.8,Actor,Segunda,Quito Norte,,0.0,0.0,1
+SYN-0015,2020-04-15 22:55:49.303621171,Civil,Ordinario,28295.58,Actor,Segunda,Quito Sur,Persona jurídica,0.0,1.0,1
+SYN-0016,2020-04-22 12:34:05.682451254,Civil,Sumario,3760.73,Actor,Primera,Quito Norte,,0.0,1.0,1
+SYN-0017,2020-04-29 02:12:22.061281338,Civil,Sumario,34050.43,Demandado,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0018,2020-05-05 15:50:38.440111422,Civil,Ejecutivo,,Actor,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0019,2020-05-12 05:28:54.818941506,Laboral,Haberes laborales,56723.26,Demandado,Primera,Rumiñahui,Persona jurídica,0.0,1.0,0
+SYN-0020,2020-05-18 19:07:11.197771588,Laboral,Haberes laborales,1642.32,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0021,2020-05-25 08:45:27.576601672,Laboral,Haberes laborales,8197.31,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0022,2020-05-31 22:23:43.955431756,Civil,Monitorio,3333.1,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0023,2020-06-07 12:02:00.334261840,Laboral,Visto bueno,7878.54,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0024,2020-06-14 01:40:16.713091924,Laboral,Despido intempestivo,23058.57,Demandado,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0025,2020-06-20 15:18:33.091922008,Laboral,Haberes laborales,15046.5,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0026,2020-06-27 04:56:49.470752090,Civil,Ejecutivo,13971.15,Demandado,Primera,Quito Norte,,1.0,0.0,0
+SYN-0027,2020-07-03 18:35:05.849582174,Civil,Sumario,,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0028,2020-07-10 08:13:22.228412258,Civil,Ejecutivo,22059.87,Demandado,Primera,Quito Sur,Persona jurídica,0.0,1.0,1
+SYN-0029,2020-07-16 21:51:38.607242342,Civil,Ejecutivo,6565.55,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0030,2020-07-23 11:29:54.986072426,Laboral,Despido intempestivo,36496.68,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0031,2020-07-30 01:08:11.364902508,Laboral,Haberes laborales,34919.23,Demandado,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0032,2020-08-05 14:46:27.743732592,Laboral,Despido intempestivo,26454.06,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0033,2020-08-12 04:24:44.122562676,Civil,Ordinario,31403.06,Actor,Primera,Quito Norte,Persona natural,0.0,1.0,1
+SYN-0034,2020-08-18 18:03:00.501392760,Civil,Monitorio,24210.58,Actor,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0035,2020-08-25 07:41:16.880222844,Civil,Sumario,137750.64,Actor,Segunda,Rumiñahui,Persona natural,1.0,1.0,1
+SYN-0036,2020-08-31 21:19:33.259052928,Civil,Ejecutivo,16498.63,Demandado,Primera,Rumiñahui,Persona jurídica,1.0,0.0,0
+SYN-0037,2020-09-07 10:57:49.637883012,Civil,Sumario,13240.61,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0038,2020-09-14 00:36:06.016713096,Civil,Ejecutivo,8472.66,Demandado,Primera,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0039,2020-09-20 14:14:22.395543176,Civil,Ordinario,6411.6,Actor,Segunda,Rumiñahui,Persona jurídica,0.0,0.0,1
+SYN-0040,2020-09-27 03:52:38.774373260,Laboral,Haberes laborales,5185.67,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0041,2020-10-03 17:30:55.153203344,Civil,Ordinario,7400.7,Actor,Segunda,Quito Sur,Persona jurídica,1.0,1.0,0
+SYN-0042,2020-10-10 07:09:11.532033428,Laboral,Visto bueno,16771.67,Actor,Primera,Rumiñahui,Persona natural,0.0,1.0,1
+SYN-0043,2020-10-16 20:47:27.910863512,Laboral,Haberes laborales,25145.2,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0044,2020-10-23 10:25:44.289693596,Civil,Monitorio,18944.5,Demandado,Primera,Rumiñahui,Persona natural,0.0,1.0,0
+SYN-0045,2020-10-30 00:04:00.668523680,Laboral,Visto bueno,,Demandado,Primera,Mejía,Persona jurídica,1.0,1.0,0
+SYN-0046,2020-11-05 13:42:17.047353764,Laboral,Haberes laborales,44281.03,Demandado,Primera,Rumiñahui,Entidad pública,0.0,1.0,1
+SYN-0047,2020-11-12 03:20:33.426183848,Civil,Sumario,37704.69,Actor,Primera,,Persona natural,0.0,1.0,1
+SYN-0048,2020-11-18 16:58:49.805013932,Civil,Ejecutivo,15343.98,Actor,Primera,Rumiñahui,Persona jurídica,0.0,1.0,1
+SYN-0049,2020-11-25 06:37:06.183844016,Laboral,Despido intempestivo,9369.46,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0050,2020-12-01 20:15:22.562674096,Civil,Ejecutivo,31149.55,Actor,Primera,Rumiñahui,Persona natural,0.0,1.0,1
+SYN-0051,2020-12-08 09:53:38.941504180,Civil,Sumario,21722.43,Actor,Primera,Rumiñahui,Persona jurídica,1.0,1.0,1
+SYN-0052,2020-12-14 23:31:55.320334264,Civil,Monitorio,4230.18,Actor,Primera,Rumiñahui,Persona jurídica,,0.0,1
+SYN-0053,2020-12-21 13:10:11.699164348,Laboral,Despido intempestivo,16817.02,Actor,Primera,Quito Norte,Entidad pública,1.0,0.0,1
+SYN-0054,2020-12-28 02:48:28.077994432,Laboral,Haberes laborales,23392.32,Demandado,Primera,Quito Norte,Entidad pública,1.0,0.0,0
+SYN-0055,2021-01-03 16:26:44.456824516,Laboral,Haberes laborales,7320.49,Actor,Segunda,Quito Norte,Persona natural,0.0,1.0,0
+SYN-0056,2021-01-10 06:05:00.835654600,Laboral,Haberes laborales,,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0057,2021-01-16 19:43:17.214484684,Civil,Ejecutivo,4201.95,Actor,Primera,Quito Sur,Persona jurídica,0.0,1.0,1
+SYN-0058,2021-01-23 09:21:33.593314768,Civil,Ordinario,68481.1,Actor,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0059,2021-01-29 22:59:49.972144852,Civil,Ejecutivo,62697.51,Actor,Primera,Quito Sur,Persona natural,1.0,1.0,1
+SYN-0060,2021-02-05 12:38:06.350974932,Civil,Monitorio,13983.17,Actor,Primera,Rumiñahui,Entidad pública,0.0,,1
+SYN-0061,2021-02-12 02:16:22.729805016,Laboral,Haberes laborales,25889.21,Actor,Primera,Mejía,Persona natural,1.0,1.0,1
+SYN-0062,2021-02-18 15:54:39.108635100,Civil,Sumario,,Actor,Primera,Quito Norte,Persona natural,0.0,1.0,1
+SYN-0063,2021-02-25 05:32:55.487465184,Civil,Ordinario,5663.4,Demandado,Segunda,Rumiñahui,Persona jurídica,0.0,0.0,0
+SYN-0064,2021-03-03 19:11:11.866295268,Laboral,Despido intempestivo,13417.94,Actor,Segunda,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0065,2021-03-10 08:49:28.245125352,Laboral,Visto bueno,6161.0,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0066,2021-03-16 22:27:44.623955432,Civil,Sumario,36773.16,Actor,Primera,Quito Norte,Entidad pública,0.0,0.0,1
+SYN-0067,2021-03-23 12:06:01.002785520,Civil,Ordinario,132643.93,Actor,Primera,Rumiñahui,Persona jurídica,0.0,0.0,1
+SYN-0068,2021-03-30 01:44:17.381615600,Civil,Sumario,5549.77,Actor,Segunda,Mejía,Persona natural,0.0,0.0,0
+SYN-0069,2021-04-05 15:22:33.760445688,Civil,Sumario,7790.53,Actor,Primera,Rumiñahui,Persona natural,1.0,0.0,1
+SYN-0070,2021-04-12 05:00:50.139275768,Civil,Ordinario,22778.57,Demandado,Primera,Mejía,Entidad pública,0.0,0.0,0
+SYN-0071,2021-04-18 18:39:06.518105856,Civil,Ordinario,,Demandado,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0072,2021-04-25 08:17:22.896935936,Civil,Ejecutivo,5301.54,Demandado,Primera,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0073,2021-05-01 21:55:39.275766024,Laboral,Haberes laborales,23090.19,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0074,2021-05-08 11:33:55.654596104,Civil,Monitorio,111237.84,Actor,Segunda,Quito Sur,Persona natural,1.0,0.0,1
+SYN-0075,2021-05-15 01:12:12.033426192,Civil,Ejecutivo,3450.82,Demandado,Primera,Mejía,Entidad pública,0.0,1.0,1
+SYN-0076,2021-05-21 14:50:28.412256272,Civil,Ejecutivo,4999.32,Actor,Primera,Quito Norte,Persona jurídica,0.0,1.0,0
+SYN-0077,2021-05-28 04:28:44.791086352,Civil,Monitorio,11784.26,Actor,Primera,Quito Sur,Entidad pública,0.0,,1
+SYN-0078,2021-06-03 18:07:01.169916440,Laboral,Visto bueno,10695.07,Actor,Primera,Rumiñahui,Persona natural,0.0,1.0,1
+SYN-0079,2021-06-10 07:45:17.548746520,Civil,Ejecutivo,40567.73,Demandado,Primera,Quito Norte,Persona jurídica,,0.0,0
+SYN-0080,2021-06-16 21:23:33.927576608,Laboral,Visto bueno,22920.49,Demandado,Primera,Rumiñahui,Persona jurídica,1.0,1.0,1
+SYN-0081,2021-06-23 11:01:50.306406688,Laboral,Despido intempestivo,3050.82,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0082,2021-06-30 00:40:06.685236776,Civil,Ejecutivo,30137.86,Demandado,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0083,2021-07-06 14:18:23.064066856,Laboral,Visto bueno,10103.0,Actor,Primera,Rumiñahui,Persona jurídica,0.0,1.0,1
+SYN-0084,2021-07-13 03:56:39.442896944,Civil,Monitorio,64381.03,Demandado,Segunda,Quito Norte,Persona natural,0.0,1.0,1
+SYN-0085,2021-07-19 17:34:55.821727024,Civil,Sumario,9609.81,Actor,Primera,Rumiñahui,Persona jurídica,1.0,0.0,1
+SYN-0086,2021-07-26 07:13:12.200557112,Civil,Monitorio,9523.44,Demandado,Primera,Quito Norte,Entidad pública,0.0,0.0,0
+SYN-0087,2021-08-01 20:51:28.579387192,Laboral,Visto bueno,30923.1,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0088,2021-08-08 10:29:44.958217272,Civil,Ordinario,38601.77,Demandado,Primera,Quito Sur,Persona natural,0.0,1.0,0
+SYN-0089,2021-08-15 00:08:01.337047360,Civil,Ejecutivo,28176.02,Actor,Primera,Rumiñahui,Persona natural,1.0,1.0,1
+SYN-0090,2021-08-21 13:46:17.715877440,Civil,Monitorio,3336.01,Actor,Primera,Quito Norte,Persona natural,1.0,1.0,1
+SYN-0091,2021-08-28 03:24:34.094707528,Civil,Ordinario,30827.47,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0092,2021-09-03 17:02:50.473537608,Laboral,Haberes laborales,,Actor,Primera,Rumiñahui,Persona jurídica,0.0,,1
+SYN-0093,2021-09-10 06:41:06.852367696,Civil,Sumario,,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0094,2021-09-16 20:19:23.231197776,Civil,Ejecutivo,,Demandado,Primera,Quito Sur,Persona jurídica,,0.0,0
+SYN-0095,2021-09-23 09:57:39.610027864,Civil,Monitorio,28125.99,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0096,2021-09-29 23:35:55.988857944,Laboral,Haberes laborales,,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0097,2021-10-06 13:14:12.367688032,Civil,Ordinario,4991.5,Actor,Primera,,Persona natural,0.0,1.0,1
+SYN-0098,2021-10-13 02:52:28.746518112,Civil,Ordinario,36751.97,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0099,2021-10-19 16:30:45.125348192,Civil,Sumario,22920.15,Actor,Primera,Quito Sur,Persona jurídica,0.0,,1
+SYN-0100,2021-10-26 06:09:01.504178280,Laboral,Haberes laborales,9741.5,Demandado,Primera,Mejía,,0.0,0.0,0
+SYN-0101,2021-11-01 19:47:17.883008360,Laboral,Despido intempestivo,76826.57,Actor,Segunda,Quito Norte,Persona jurídica,0.0,1.0,1
+SYN-0102,2021-11-08 09:25:34.261838448,Laboral,Visto bueno,11585.09,Actor,Primera,,Persona jurídica,0.0,1.0,1
+SYN-0103,2021-11-14 23:03:50.640668528,Civil,Ordinario,18587.32,Demandado,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0104,2021-11-21 12:42:07.019498616,Laboral,Visto bueno,23553.75,Actor,Segunda,Rumiñahui,Entidad pública,0.0,0.0,1
+SYN-0105,2021-11-28 02:20:23.398328696,Laboral,Visto bueno,9686.24,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0106,2021-12-04 15:58:39.777158784,Laboral,Despido intempestivo,28832.64,Demandado,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0107,2021-12-11 05:36:56.155988864,Civil,Sumario,10558.38,Demandado,Segunda,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0108,2021-12-17 19:15:12.534818944,Civil,Monitorio,,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0109,2021-12-24 08:53:28.913649032,Civil,Monitorio,70317.06,Actor,Primera,Rumiñahui,Persona natural,0.0,1.0,1
+SYN-0110,2021-12-30 22:31:45.292479112,Laboral,Despido intempestivo,6358.46,Demandado,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0111,2022-01-06 12:10:01.671309200,Civil,Ordinario,1612.19,Demandado,Primera,Quito Norte,Persona natural,0.0,1.0,0
+SYN-0112,2022-01-13 01:48:18.050139280,Civil,Ordinario,90135.02,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,1
+SYN-0113,2022-01-19 15:26:34.428969368,Civil,Ejecutivo,230372.99,Actor,Segunda,Mejía,Entidad pública,0.0,1.0,0
+SYN-0114,2022-01-26 05:04:50.807799448,Civil,Ordinario,12002.35,Demandado,Segunda,Rumiñahui,Persona jurídica,0.0,1.0,0
+SYN-0115,2022-02-01 18:43:07.186629536,Civil,Monitorio,2594.86,Actor,Primera,Quito Sur,Persona jurídica,1.0,,1
+SYN-0116,2022-02-08 08:21:23.565459616,Laboral,Haberes laborales,13195.66,Demandado,Primera,Rumiñahui,Persona jurídica,1.0,0.0,1
+SYN-0117,2022-02-14 21:59:39.944289704,Laboral,Haberes laborales,13519.71,Actor,Primera,Quito Sur,Entidad pública,0.0,0.0,1
+SYN-0118,2022-02-21 11:37:56.323119784,Laboral,Despido intempestivo,14886.4,Demandado,Segunda,,Persona natural,0.0,1.0,1
+SYN-0119,2022-02-28 01:16:12.701949864,Civil,Ordinario,5912.0,Actor,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0120,2022-03-06 14:54:29.080779952,Laboral,Haberes laborales,32134.59,Actor,Segunda,Quito Sur,Persona jurídica,0.0,,0
+SYN-0121,2022-03-13 04:32:45.459610032,Civil,Ejecutivo,30413.27,Demandado,Primera,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0122,2022-03-19 18:11:01.838440120,Laboral,Visto bueno,4038.87,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0123,2022-03-26 07:49:18.217270200,Civil,Monitorio,36218.44,Demandado,Primera,Rumiñahui,Persona jurídica,0.0,1.0,0
+SYN-0124,2022-04-01 21:27:34.596100288,Civil,Ordinario,140198.14,Actor,Primera,Quito Norte,Persona natural,0.0,1.0,1
+SYN-0125,2022-04-08 11:05:50.974930368,Civil,Ordinario,21377.35,Demandado,Primera,Quito Sur,Entidad pública,0.0,0.0,0
+SYN-0126,2022-04-15 00:44:07.353760456,Civil,Ordinario,12846.18,Actor,Primera,Quito Norte,,0.0,0.0,0
+SYN-0127,2022-04-21 14:22:23.732590536,Civil,Ordinario,15617.13,Actor,Segunda,Mejía,Persona natural,0.0,0.0,1
+SYN-0128,2022-04-28 04:00:40.111420624,Civil,Ordinario,33302.37,Actor,Primera,Mejía,Persona natural,0.0,0.0,0
+SYN-0129,2022-05-04 17:38:56.490250704,Civil,Monitorio,3188.98,Actor,Primera,Mejía,Persona natural,1.0,0.0,1
+SYN-0130,2022-05-11 07:17:12.869080784,Civil,Sumario,21216.15,Actor,Primera,,Persona natural,0.0,1.0,1
+SYN-0131,2022-05-17 20:55:29.247910864,Civil,Monitorio,12181.37,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0132,2022-05-24 10:33:45.626740960,Laboral,Haberes laborales,114228.04,Demandado,Segunda,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0133,2022-05-31 00:12:02.005571040,Civil,Monitorio,15122.73,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0134,2022-06-06 13:50:18.384401120,Civil,Ordinario,95417.25,Actor,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0135,2022-06-13 03:28:34.763231200,Civil,Ejecutivo,5969.31,Actor,Primera,Quito Norte,Persona natural,,0.0,0
+SYN-0136,2022-06-19 17:06:51.142061296,Civil,Monitorio,32382.91,Actor,Segunda,Mejía,Persona natural,1.0,0.0,0
+SYN-0137,2022-06-26 06:45:07.520891376,Laboral,Despido intempestivo,24773.44,Demandado,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0138,2022-07-02 20:23:23.899721456,Civil,Ordinario,7548.32,Demandado,Primera,Quito Norte,Persona natural,,1.0,0
+SYN-0139,2022-07-09 10:01:40.278551536,Laboral,Haberes laborales,21493.87,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0140,2022-07-15 23:39:56.657381616,Civil,Monitorio,,Demandado,Primera,Quito Sur,Persona natural,1.0,0.0,1
+SYN-0141,2022-07-22 13:18:13.036211712,Civil,Monitorio,13021.22,Actor,Segunda,Rumiñahui,Persona jurídica,0.0,0.0,1
+SYN-0142,2022-07-29 02:56:29.415041792,Civil,Monitorio,3314.84,Actor,Primera,Quito Sur,Entidad pública,0.0,1.0,0
+SYN-0143,2022-08-04 16:34:45.793871872,Laboral,Despido intempestivo,17686.63,Actor,Segunda,Rumiñahui,Entidad pública,1.0,0.0,0
+SYN-0144,2022-08-11 06:13:02.172701952,Civil,Monitorio,7300.54,Actor,Primera,Quito Sur,Persona jurídica,1.0,1.0,1
+SYN-0145,2022-08-17 19:51:18.551532048,Civil,Monitorio,12781.91,Demandado,Primera,Quito Sur,Persona jurídica,0.0,1.0,0
+SYN-0146,2022-08-24 09:29:34.930362128,Civil,Sumario,16589.73,Demandado,Primera,Rumiñahui,Persona natural,0.0,1.0,0
+SYN-0147,2022-08-30 23:07:51.309192208,Civil,Monitorio,3269.77,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0148,2022-09-06 12:46:07.688022288,Civil,Monitorio,3577.68,Actor,Segunda,Quito Norte,Persona jurídica,1.0,1.0,0
+SYN-0149,2022-09-13 02:24:24.066852384,Civil,Ejecutivo,29149.52,Demandado,Segunda,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0150,2022-09-19 16:02:40.445682464,Civil,Ordinario,10672.32,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0151,2022-09-26 05:40:56.824512544,Laboral,Visto bueno,1384.9,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0152,2022-10-02 19:19:13.203342624,Laboral,Despido intempestivo,39457.17,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0153,2022-10-09 08:57:29.582172704,Civil,Ordinario,23635.3,Demandado,Primera,Quito Norte,,1.0,0.0,1
+SYN-0154,2022-10-15 22:35:45.961002800,Civil,Ordinario,8815.37,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0155,2022-10-22 12:14:02.339832880,Civil,Sumario,4823.7,Demandado,Primera,Rumiñahui,Entidad pública,0.0,0.0,0
+SYN-0156,2022-10-29 01:52:18.718662960,Laboral,Visto bueno,41520.18,Actor,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0157,2022-11-04 15:30:35.097493040,Civil,Sumario,25526.63,Demandado,Primera,Quito Sur,Entidad pública,,0.0,0
+SYN-0158,2022-11-11 05:08:51.476323136,Laboral,Haberes laborales,194995.02,Actor,Primera,Rumiñahui,Persona jurídica,,1.0,0
+SYN-0159,2022-11-17 18:47:07.855153216,Laboral,Visto bueno,27400.48,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0160,2022-11-24 08:25:24.233983296,Laboral,Visto bueno,,Demandado,Segunda,Rumiñahui,Persona jurídica,0.0,0.0,1
+SYN-0161,2022-11-30 22:03:40.612813376,Civil,Ordinario,15232.69,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0162,2022-12-07 11:41:56.991643456,Laboral,Haberes laborales,40737.44,Actor,Primera,Quito Norte,Persona jurídica,0.0,0.0,1
+SYN-0163,2022-12-14 01:20:13.370473552,Civil,Ejecutivo,33631.29,Demandado,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0164,2022-12-20 14:58:29.749303632,Civil,Ordinario,62934.64,Demandado,Primera,Mejía,Persona jurídica,0.0,0.0,0
+SYN-0165,2022-12-27 04:36:46.128133712,Civil,Monitorio,10687.22,Actor,Segunda,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0166,2023-01-02 18:15:02.506963792,Civil,Sumario,11646.02,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0167,2023-01-09 07:53:18.885793888,Laboral,Despido intempestivo,11148.09,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0168,2023-01-15 21:31:35.264623968,Laboral,Despido intempestivo,39692.95,Demandado,Segunda,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0169,2023-01-22 11:09:51.643454048,Civil,Ordinario,80539.38,Actor,Segunda,Quito Sur,Persona natural,0.0,,0
+SYN-0170,2023-01-29 00:48:08.022284128,Laboral,Despido intempestivo,11376.29,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0171,2023-02-04 14:26:24.401114224,Civil,Ordinario,11770.52,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0172,2023-02-11 04:04:40.779944304,Civil,Sumario,24641.92,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0173,2023-02-17 17:42:57.158774384,Civil,Sumario,14077.96,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0174,2023-02-24 07:21:13.537604464,Laboral,Haberes laborales,46638.45,Demandado,Primera,Quito Sur,Persona jurídica,1.0,0.0,1
+SYN-0175,2023-03-02 20:59:29.916434544,Civil,Sumario,1893.82,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0176,2023-03-09 10:37:46.295264640,Civil,Sumario,,Demandado,Segunda,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0177,2023-03-16 00:16:02.674094720,Civil,Sumario,8231.39,Demandado,Primera,Quito Sur,Persona natural,1.0,1.0,0
+SYN-0178,2023-03-22 13:54:19.052924800,Laboral,Despido intempestivo,1768.29,Actor,Primera,Quito Sur,Persona natural,1.0,0.0,0
+SYN-0179,2023-03-29 03:32:35.431754880,Laboral,Despido intempestivo,6867.04,Actor,Primera,Quito Norte,Persona jurídica,0.0,0.0,1
+SYN-0180,2023-04-04 17:10:51.810584976,Laboral,Visto bueno,7208.17,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0181,2023-04-11 06:49:08.189415056,Laboral,Despido intempestivo,14720.88,Demandado,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0182,2023-04-17 20:27:24.568245136,Laboral,Despido intempestivo,54780.68,Actor,Primera,Rumiñahui,Persona jurídica,0.0,0.0,0
+SYN-0183,2023-04-24 10:05:40.947075216,Civil,Ordinario,14087.83,Actor,Segunda,Quito Norte,,0.0,0.0,0
+SYN-0184,2023-04-30 23:43:57.325905296,Civil,Monitorio,6420.9,Actor,Primera,Rumiñahui,Persona natural,1.0,1.0,1
+SYN-0185,2023-05-07 13:22:13.704735392,Laboral,Visto bueno,17003.47,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0186,2023-05-14 03:00:30.083565472,Laboral,Haberes laborales,51395.23,Actor,Primera,Rumiñahui,Persona natural,1.0,1.0,1
+SYN-0187,2023-05-20 16:38:46.462395552,Civil,Ejecutivo,6782.96,Demandado,Primera,,Persona jurídica,0.0,0.0,0
+SYN-0188,2023-05-27 06:17:02.841225632,Civil,Ordinario,7241.27,Demandado,Segunda,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0189,2023-06-02 19:55:19.220055728,Laboral,Visto bueno,31466.41,Actor,Primera,Quito Sur,Entidad pública,0.0,0.0,0
+SYN-0190,2023-06-09 09:33:35.598885808,Civil,Ordinario,14423.17,Actor,Primera,Mejía,Persona jurídica,0.0,0.0,1
+SYN-0191,2023-06-15 23:11:51.977715888,Laboral,Haberes laborales,34393.12,Actor,Primera,Quito Sur,Entidad pública,0.0,1.0,1
+SYN-0192,2023-06-22 12:50:08.356545968,Civil,Ordinario,17756.03,Demandado,Primera,,Persona jurídica,0.0,0.0,0
+SYN-0193,2023-06-29 02:28:24.735376064,Civil,Ejecutivo,36307.9,Demandado,Primera,,Persona natural,0.0,1.0,0
+SYN-0194,2023-07-05 16:06:41.114206144,Laboral,Haberes laborales,6393.58,Actor,Primera,,Persona jurídica,0.0,0.0,0
+SYN-0195,2023-07-12 05:44:57.493036224,Civil,Sumario,17783.79,Demandado,Primera,Quito Norte,Persona natural,0.0,,0
+SYN-0196,2023-07-18 19:23:13.871866304,Civil,Ejecutivo,14580.45,Actor,Primera,Quito Sur,Persona jurídica,1.0,1.0,1
+SYN-0197,2023-07-25 09:01:30.250696384,Civil,Sumario,5336.02,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0198,2023-07-31 22:39:46.629526480,Laboral,Haberes laborales,3769.32,Demandado,Primera,Mejía,Persona natural,0.0,1.0,0
+SYN-0199,2023-08-07 12:18:03.008356560,Civil,Ejecutivo,35734.65,Actor,Primera,Quito Sur,Entidad pública,0.0,0.0,1
+SYN-0200,2023-08-14 01:56:19.387186640,Civil,Sumario,12672.31,Actor,Segunda,Quito Sur,Persona natural,0.0,,0
+SYN-0201,2023-08-20 15:34:35.766016720,Laboral,Haberes laborales,6475.93,Actor,Primera,Mejía,Persona jurídica,0.0,0.0,0
+SYN-0202,2023-08-27 05:12:52.144846816,Laboral,Visto bueno,16349.43,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0203,2023-09-02 18:51:08.523676896,Civil,Ejecutivo,55611.53,Demandado,Primera,Quito Norte,Persona natural,1.0,1.0,1
+SYN-0204,2023-09-09 08:29:24.902506976,Civil,Ordinario,1839.76,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0205,2023-09-15 22:07:41.281337056,Civil,Ordinario,4029.87,Actor,Primera,Quito Norte,Persona jurídica,0.0,0.0,1
+SYN-0206,2023-09-22 11:45:57.660167136,Civil,Monitorio,7152.67,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0207,2023-09-29 01:24:14.038997232,Civil,Sumario,77598.7,Demandado,Segunda,Quito Sur,Persona jurídica,0.0,1.0,0
+SYN-0208,2023-10-05 15:02:30.417827312,Laboral,Despido intempestivo,23878.03,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0209,2023-10-12 04:40:46.796657392,Civil,Ejecutivo,38771.64,Demandado,Primera,Rumiñahui,Persona jurídica,0.0,1.0,1
+SYN-0210,2023-10-18 18:19:03.175487472,Civil,Sumario,5755.82,Demandado,Primera,Quito Norte,Persona natural,0.0,1.0,0
+SYN-0211,2023-10-25 07:57:19.554317568,Laboral,Visto bueno,5875.76,Actor,Primera,Quito Sur,Entidad pública,0.0,0.0,0
+SYN-0212,2023-10-31 21:35:35.933147648,Civil,Sumario,28167.97,Demandado,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0213,2023-11-07 11:13:52.311977728,Civil,Ejecutivo,19080.1,Actor,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0214,2023-11-14 00:52:08.690807808,Laboral,Visto bueno,31159.23,Actor,Primera,Quito Norte,Persona natural,,0.0,1
+SYN-0215,2023-11-20 14:30:25.069637888,Laboral,Visto bueno,14919.97,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0216,2023-11-27 04:08:41.448467984,Laboral,Haberes laborales,23772.17,Actor,Segunda,Quito Norte,Persona jurídica,0.0,1.0,1
+SYN-0217,2023-12-03 17:46:57.827298064,Civil,Ordinario,,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0218,2023-12-10 07:25:14.206128144,Civil,Ordinario,39178.93,Demandado,Segunda,Quito Sur,,0.0,0.0,0
+SYN-0219,2023-12-16 21:03:30.584958224,Laboral,Visto bueno,40341.47,Demandado,Primera,Rumiñahui,Persona natural,1.0,1.0,1
+SYN-0220,2023-12-23 10:41:46.963788320,Civil,Sumario,,Demandado,Primera,Quito Norte,Entidad pública,0.0,0.0,0
+SYN-0221,2023-12-30 00:20:03.342618400,Civil,Sumario,1902.38,Actor,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0222,2024-01-05 13:58:19.721448480,Civil,Ejecutivo,49014.55,Actor,Primera,Quito Sur,Persona jurídica,1.0,0.0,1
+SYN-0223,2024-01-12 03:36:36.100278560,Laboral,Haberes laborales,59033.01,Demandado,Primera,Rumiñahui,Persona jurídica,1.0,,1
+SYN-0224,2024-01-18 17:14:52.479108656,Laboral,Visto bueno,,Demandado,Primera,Rumiñahui,Entidad pública,0.0,1.0,1
+SYN-0225,2024-01-25 06:53:08.857938736,Civil,Ordinario,2802.57,Actor,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0226,2024-01-31 20:31:25.236768816,Laboral,Despido intempestivo,19873.89,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0227,2024-02-07 10:09:41.615598896,Civil,Monitorio,45659.42,Actor,Primera,Quito Norte,Entidad pública,1.0,0.0,1
+SYN-0228,2024-02-13 23:47:57.994428976,Civil,Ordinario,108632.03,Actor,Primera,Quito Norte,,0.0,0.0,1
+SYN-0229,2024-02-20 13:26:14.373259072,Laboral,Haberes laborales,30164.61,Demandado,Primera,,Persona natural,1.0,0.0,1
+SYN-0230,2024-02-27 03:04:30.752089152,Civil,Ejecutivo,12411.89,Actor,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0231,2024-03-04 16:42:47.130919232,Civil,Ordinario,7368.7,Demandado,Segunda,Mejía,Persona natural,1.0,0.0,0
+SYN-0232,2024-03-11 06:21:03.509749312,Civil,Ejecutivo,18207.31,Demandado,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0233,2024-03-17 19:59:19.888579408,Laboral,Visto bueno,13344.54,Demandado,Primera,Quito Sur,,0.0,0.0,0
+SYN-0234,2024-03-24 09:37:36.267409488,Civil,Ejecutivo,6522.8,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0235,2024-03-30 23:15:52.646239568,Laboral,Haberes laborales,139648.34,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0236,2024-04-06 12:54:09.025069648,Laboral,Visto bueno,,Demandado,Primera,Mejía,,0.0,0.0,1
+SYN-0237,2024-04-13 02:32:25.403899728,Civil,Ejecutivo,56059.88,Demandado,Primera,Quito Norte,Persona natural,0.0,1.0,0
+SYN-0238,2024-04-19 16:10:41.782729824,Laboral,Visto bueno,7167.25,Actor,Primera,Quito Sur,Persona natural,0.0,1.0,0
+SYN-0239,2024-04-26 05:48:58.161559904,Civil,Monitorio,42325.56,Demandado,Primera,Rumiñahui,Persona jurídica,0.0,1.0,1
+SYN-0240,2024-05-02 19:27:14.540389984,Civil,Ejecutivo,34123.91,Actor,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0241,2024-05-09 09:05:30.919220064,Laboral,Despido intempestivo,28019.97,Demandado,Primera,Quito Sur,,1.0,,1
+SYN-0242,2024-05-15 22:43:47.298050160,Laboral,Visto bueno,62805.15,Actor,Primera,Mejía,Persona natural,,0.0,1
+SYN-0243,2024-05-22 12:22:03.676880240,Civil,Monitorio,33979.01,Actor,Primera,Mejía,Entidad pública,0.0,1.0,0
+SYN-0244,2024-05-29 02:00:20.055710320,Civil,Ordinario,37727.38,Actor,Segunda,Mejía,Persona jurídica,0.0,0.0,0
+SYN-0245,2024-06-04 15:38:36.434540400,Laboral,Haberes laborales,34031.21,Actor,Primera,Rumiñahui,,1.0,0.0,1
+SYN-0246,2024-06-11 05:16:52.813370496,Laboral,Visto bueno,25309.08,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0247,2024-06-17 18:55:09.192200576,Laboral,Visto bueno,3024.54,Actor,Segunda,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0248,2024-06-24 08:33:25.571030656,Civil,Ejecutivo,19569.9,Actor,Primera,Quito Sur,Persona natural,1.0,0.0,1
+SYN-0249,2024-06-30 22:11:41.949860736,Civil,Monitorio,10320.99,Demandado,Primera,Quito Sur,Persona jurídica,1.0,1.0,1
+SYN-0250,2024-07-07 11:49:58.328690816,Civil,Ordinario,5005.47,Actor,Primera,Quito Sur,Persona natural,0.0,1.0,0
+SYN-0251,2024-07-14 01:28:14.707520912,Laboral,Despido intempestivo,96755.62,Demandado,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0252,2024-07-20 15:06:31.086350992,Laboral,Visto bueno,101429.82,Demandado,Segunda,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0253,2024-07-27 04:44:47.465181072,Civil,Ejecutivo,70076.84,Actor,Primera,Rumiñahui,Persona natural,1.0,0.0,1
+SYN-0254,2024-08-02 18:23:03.844011152,Civil,Ejecutivo,23233.27,Actor,Primera,,Persona natural,0.0,0.0,0
+SYN-0255,2024-08-09 08:01:20.222841248,Civil,Ordinario,69477.08,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0256,2024-08-15 21:39:36.601671328,Laboral,Despido intempestivo,18218.27,Demandado,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0257,2024-08-22 11:17:52.980501408,Laboral,Despido intempestivo,22046.83,Actor,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0258,2024-08-29 00:56:09.359331488,Civil,Sumario,6030.92,Demandado,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0259,2024-09-04 14:34:25.738161568,Civil,Ejecutivo,26772.17,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0260,2024-09-11 04:12:42.116991648,Civil,Sumario,19120.44,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0261,2024-09-17 17:50:58.495821728,Civil,Sumario,4892.58,Demandado,Primera,Rumiñahui,Persona jurídica,1.0,1.0,1
+SYN-0262,2024-09-24 07:29:14.874651840,Laboral,Haberes laborales,17101.64,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0263,2024-09-30 21:07:31.253481920,Civil,Sumario,16620.59,Demandado,Primera,Quito Norte,Persona jurídica,1.0,1.0,0
+SYN-0264,2024-10-07 10:45:47.632312000,Civil,Sumario,108628.4,Actor,Primera,Quito Norte,,0.0,0.0,1
+SYN-0265,2024-10-14 00:24:04.011142080,Laboral,Visto bueno,44017.4,Demandado,Primera,Quito Norte,Persona jurídica,0.0,1.0,1
+SYN-0266,2024-10-20 14:02:20.389972160,Civil,Sumario,18207.2,Actor,Primera,Quito Sur,Entidad pública,0.0,1.0,0
+SYN-0267,2024-10-27 03:40:36.768802240,Civil,Sumario,23084.45,Actor,Primera,Quito Norte,Persona jurídica,1.0,1.0,1
+SYN-0268,2024-11-02 17:18:53.147632320,Civil,Ejecutivo,18813.68,Actor,Primera,Quito Norte,Persona natural,1.0,1.0,1
+SYN-0269,2024-11-09 06:57:09.526462400,Civil,Ordinario,14694.27,Actor,Primera,Quito Norte,Persona natural,1.0,1.0,1
+SYN-0270,2024-11-15 20:35:25.905292480,Civil,Monitorio,6097.9,Demandado,Primera,Quito Sur,Persona jurídica,1.0,0.0,0
+SYN-0271,2024-11-22 10:13:42.284122592,Civil,Ejecutivo,15476.46,Actor,Primera,Quito Norte,Entidad pública,1.0,0.0,1
+SYN-0272,2024-11-28 23:51:58.662952672,Civil,Sumario,8535.84,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0273,2024-12-05 13:30:15.041782752,Civil,Ordinario,5155.46,Actor,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0274,2024-12-12 03:08:31.420612832,Civil,Ejecutivo,30011.89,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0275,2024-12-18 16:46:47.799442912,Laboral,Visto bueno,26619.3,Demandado,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0276,2024-12-25 06:25:04.178272992,Civil,Sumario,3015.19,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0277,2024-12-31 20:03:20.557103072,Civil,Sumario,15921.77,Demandado,Primera,Quito Norte,,0.0,0.0,0
+SYN-0278,2025-01-07 09:41:36.935933152,Civil,Ejecutivo,48719.2,Actor,Primera,Rumiñahui,Persona jurídica,0.0,0.0,0
+SYN-0279,2025-01-13 23:19:53.314763232,Laboral,Haberes laborales,51914.36,Demandado,Primera,Rumiñahui,Persona jurídica,0.0,0.0,0
+SYN-0280,2025-01-20 12:58:09.693593344,Laboral,Visto bueno,,Actor,Primera,Quito Norte,Persona jurídica,0.0,1.0,1
+SYN-0281,2025-01-27 02:36:26.072423424,Civil,Monitorio,18714.24,Actor,Primera,Quito Norte,Persona jurídica,0.0,1.0,0
+SYN-0282,2025-02-02 16:14:42.451253504,Civil,Sumario,7731.68,Demandado,Primera,Mejía,Persona jurídica,1.0,0.0,0
+SYN-0283,2025-02-09 05:52:58.830083584,Civil,Sumario,6090.15,Demandado,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0284,2025-02-15 19:31:15.208913664,Civil,Monitorio,25405.78,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0285,2025-02-22 09:09:31.587743744,Civil,Ordinario,26302.18,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0286,2025-02-28 22:47:47.966573824,Civil,Monitorio,65215.87,Actor,Segunda,Quito Sur,Persona jurídica,0.0,1.0,1
+SYN-0287,2025-03-07 12:26:04.345403904,Civil,Monitorio,,Demandado,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0288,2025-03-14 02:04:20.724234016,Civil,Sumario,15770.53,Actor,Primera,,Persona jurídica,,1.0,1
+SYN-0289,2025-03-20 15:42:37.103064096,Civil,Sumario,5187.05,Demandado,Primera,Mejía,Persona jurídica,0.0,0.0,1
+SYN-0290,2025-03-27 05:20:53.481894176,Civil,Sumario,13082.37,Actor,Segunda,Quito Sur,Persona natural,0.0,1.0,0
+SYN-0291,2025-04-02 18:59:09.860724256,Laboral,Despido intempestivo,22367.36,Actor,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0292,2025-04-09 08:37:26.239554336,Civil,Monitorio,14706.48,Demandado,Segunda,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0293,2025-04-15 22:15:42.618384416,Laboral,Despido intempestivo,10099.42,Demandado,Segunda,Quito Norte,Persona jurídica,1.0,1.0,0
+SYN-0294,2025-04-22 11:53:58.997214496,Civil,Ejecutivo,23179.23,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0295,2025-04-29 01:32:15.376044576,Laboral,Visto bueno,10874.43,Actor,Primera,Quito Norte,Persona natural,1.0,1.0,1
+SYN-0296,2025-05-05 15:10:31.754874656,Laboral,Haberes laborales,9605.21,Actor,Primera,Quito Norte,Persona jurídica,0.0,0.0,1
+SYN-0297,2025-05-12 04:48:48.133704768,Laboral,Visto bueno,24577.33,Actor,Primera,Rumiñahui,Persona jurídica,1.0,0.0,1
+SYN-0298,2025-05-18 18:27:04.512534848,Laboral,Visto bueno,12041.74,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0299,2025-05-25 08:05:20.891364928,Laboral,Despido intempestivo,22976.6,Actor,Primera,Quito Sur,Persona natural,1.0,1.0,1
+SYN-0300,2025-05-31 21:43:37.270195008,Laboral,Despido intempestivo,23655.03,Demandado,Primera,Quito Sur,Entidad pública,1.0,0.0,1
+SYN-0301,2025-06-07 11:21:53.649025088,Laboral,Despido intempestivo,5760.03,Demandado,Primera,Quito Sur,Persona jurídica,0.0,1.0,0
+SYN-0302,2025-06-14 01:00:10.027855168,Civil,Ordinario,11124.29,Actor,Primera,Rumiñahui,Persona jurídica,1.0,1.0,1
+SYN-0303,2025-06-20 14:38:26.406685248,Civil,Monitorio,75803.82,Actor,Primera,Rumiñahui,Persona natural,1.0,1.0,1
+SYN-0304,2025-06-27 04:16:42.785515328,Civil,Monitorio,5631.03,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0305,2025-07-03 17:54:59.164345408,Laboral,Haberes laborales,2167.81,Actor,Primera,Quito Norte,,1.0,1.0,1
+SYN-0306,2025-07-10 07:33:15.543175520,Civil,Ordinario,2796.94,Actor,Primera,Quito Sur,Persona jurídica,0.0,1.0,1
+SYN-0307,2025-07-16 21:11:31.922005600,Civil,Ordinario,18531.68,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,0
+SYN-0308,2025-07-23 10:49:48.300835680,Laboral,Despido intempestivo,18565.2,Demandado,Segunda,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0309,2025-07-30 00:28:04.679665760,Civil,Sumario,16002.76,Actor,Segunda,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0310,2025-08-05 14:06:21.058495840,Civil,Ejecutivo,60616.16,Actor,Segunda,Quito Norte,Entidad pública,1.0,0.0,1
+SYN-0311,2025-08-12 03:44:37.437325920,Civil,Ejecutivo,1243.01,Actor,Primera,Quito Sur,Persona jurídica,0.0,1.0,0
+SYN-0312,2025-08-18 17:22:53.816156000,Civil,Ordinario,26743.88,Demandado,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0313,2025-08-25 07:01:10.194986080,Civil,Sumario,85782.07,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0314,2025-08-31 20:39:26.573816160,Civil,Ejecutivo,5827.52,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0315,2025-09-07 10:17:42.952646272,Civil,Ordinario,12311.89,Demandado,Segunda,Mejía,Persona natural,1.0,0.0,0
+SYN-0316,2025-09-13 23:55:59.331476352,Civil,Sumario,8478.04,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0317,2025-09-20 13:34:15.710306432,Civil,Monitorio,7359.75,Actor,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0318,2025-09-27 03:12:32.089136512,Laboral,Despido intempestivo,12989.09,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,0
+SYN-0319,2025-10-03 16:50:48.467966592,Civil,Ejecutivo,75027.67,Actor,Primera,Mejía,Persona jurídica,0.0,0.0,1
+SYN-0320,2025-10-10 06:29:04.846796672,Laboral,Haberes laborales,113041.89,Actor,Primera,Mejía,Entidad pública,0.0,1.0,1
+SYN-0321,2025-10-16 20:07:21.225626752,Laboral,Haberes laborales,12864.0,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,0
+SYN-0322,2025-10-23 09:45:37.604456832,Civil,Monitorio,120956.62,Actor,Segunda,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0323,2025-10-29 23:23:53.983286912,Civil,Ejecutivo,18651.9,Demandado,Primera,Mejía,Persona natural,0.0,0.0,1
+SYN-0324,2025-11-05 13:02:10.362117024,Civil,Ejecutivo,103965.88,Actor,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0325,2025-11-12 02:40:26.740947104,Laboral,Haberes laborales,16396.59,Actor,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0326,2025-11-18 16:18:43.119777184,Laboral,Despido intempestivo,20520.61,Actor,Primera,Quito Sur,Persona natural,0.0,0.0,1
+SYN-0327,2025-11-25 05:56:59.498607264,Laboral,Despido intempestivo,25941.56,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,1
+SYN-0328,2025-12-01 19:35:15.877437344,Civil,Sumario,432345.67,Actor,Primera,Rumiñahui,Persona jurídica,1.0,0.0,1
+SYN-0329,2025-12-08 09:13:32.256267424,Laboral,Haberes laborales,42167.82,Actor,Primera,Quito Sur,Entidad pública,0.0,0.0,1
+SYN-0330,2025-12-14 22:51:48.635097504,Civil,Ordinario,8873.84,Demandado,Segunda,Quito Sur,Persona natural,1.0,0.0,0
+SYN-0331,2025-12-21 12:30:05.013927584,Laboral,Visto bueno,47435.44,Actor,Primera,Quito Sur,Persona natural,1.0,1.0,1
+SYN-0332,2025-12-28 02:08:21.392757664,Civil,Ejecutivo,12535.18,Actor,Primera,Quito Sur,Persona natural,0.0,1.0,1
+SYN-0333,2026-01-03 15:46:37.771587776,Laboral,Visto bueno,11030.03,Actor,Primera,Quito Norte,Persona natural,0.0,,0
+SYN-0334,2026-01-10 05:24:54.150417856,Laboral,Haberes laborales,44655.31,Actor,Primera,Rumiñahui,Persona natural,0.0,1.0,1
+SYN-0335,2026-01-16 19:03:10.529247936,Civil,Ordinario,,Actor,Primera,Quito Norte,Entidad pública,1.0,1.0,1
+SYN-0336,2026-01-23 08:41:26.908078016,Laboral,Haberes laborales,23782.44,Actor,Segunda,,Persona natural,0.0,0.0,0
+SYN-0337,2026-01-29 22:19:43.286908096,Civil,Ejecutivo,18253.5,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,0
+SYN-0338,2026-02-05 11:57:59.665738176,Laboral,Haberes laborales,,Demandado,Primera,Quito Sur,Persona jurídica,0.0,1.0,1
+SYN-0339,2026-02-12 01:36:16.044568256,Civil,Ejecutivo,27531.69,Demandado,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0340,2026-02-18 15:14:32.423398336,Laboral,Despido intempestivo,2594.53,Actor,Primera,Quito Norte,Persona jurídica,1.0,1.0,1
+SYN-0341,2026-02-25 04:52:48.802228448,Civil,Monitorio,,Actor,Primera,Mejía,,0.0,0.0,0
+SYN-0342,2026-03-03 18:31:05.181058528,Laboral,Haberes laborales,6741.97,Actor,Primera,Rumiñahui,Persona jurídica,1.0,0.0,0
+SYN-0343,2026-03-10 08:09:21.559888608,Laboral,Despido intempestivo,4254.91,Actor,Primera,Quito Norte,Persona natural,1.0,1.0,1
+SYN-0344,2026-03-16 21:47:37.938718688,Civil,Sumario,16978.72,Actor,Primera,Quito Norte,Persona natural,1.0,0.0,0
+SYN-0345,2026-03-23 11:25:54.317548768,Laboral,Haberes laborales,19576.95,Demandado,Primera,Quito Norte,Persona jurídica,0.0,0.0,1
+SYN-0346,2026-03-30 01:04:10.696378848,Laboral,Visto bueno,8996.77,Demandado,Primera,Quito Sur,,1.0,0.0,0
+SYN-0347,2026-04-05 14:42:27.075208928,Laboral,Haberes laborales,41322.35,Demandado,Primera,Mejía,Persona natural,0.0,0.0,0
+SYN-0348,2026-04-12 04:20:43.454039008,Civil,Sumario,4702.98,Actor,Segunda,Rumiñahui,Persona jurídica,0.0,0.0,1
+SYN-0349,2026-04-18 17:58:59.832869088,Civil,Ejecutivo,11982.27,Demandado,Primera,Quito Norte,Persona natural,1.0,0.0,1
+SYN-0350,2026-04-25 07:37:16.211699200,Civil,Ordinario,10029.17,Actor,Primera,Rumiñahui,Persona natural,0.0,0.0,1
+SYN-0351,2026-05-01 21:15:32.590529280,Laboral,Haberes laborales,17180.66,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0352,2026-05-08 10:53:48.969359360,Civil,Ordinario,23789.3,Actor,Primera,Rumiñahui,Persona jurídica,0.0,0.0,0
+SYN-0353,2026-05-15 00:32:05.348189440,Civil,Monitorio,6569.77,Demandado,Primera,Quito Norte,Persona natural,1.0,1.0,0
+SYN-0354,2026-05-21 14:10:21.727019520,Civil,Sumario,37138.51,Actor,Primera,Quito Sur,Persona jurídica,0.0,0.0,1
+SYN-0355,2026-05-28 03:48:38.105849600,Civil,Ejecutivo,19170.53,Demandado,Primera,Mejía,Persona natural,0.0,0.0,0
+SYN-0356,2026-06-03 17:26:54.484679680,Civil,Ordinario,2714.01,Actor,Primera,Quito Norte,Persona jurídica,1.0,0.0,0
+SYN-0357,2026-06-10 07:05:10.863509760,Laboral,Haberes laborales,2539.03,Demandado,Primera,Quito Sur,Persona jurídica,0.0,0.0,0
+SYN-0358,2026-06-16 20:43:27.242339840,Laboral,Despido intempestivo,17779.61,Actor,Primera,Mejía,Persona natural,0.0,1.0,1
+SYN-0359,2026-06-23 10:21:43.621169952,Civil,Ejecutivo,14431.37,Actor,Primera,Quito Norte,Persona natural,0.0,0.0,1
+SYN-0360,2026-06-30 00:00:00.000000000,Civil,Monitorio,16231.47,Demandado,Primera,Quito Norte,Persona natural,1.0,0.0,1

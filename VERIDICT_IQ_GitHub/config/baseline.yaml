@@ -1,0 +1,53 @@
+project:
+  name: VERIDICT_IQ
+  seed: 42
+  data_mode: synthetic_demo
+  disclaimer: >-
+    Las métricas incluidas corresponden exclusivamente a una validación técnica con datos
+    sintéticos. No representan resultados de GRUND Abogados LLP®.
+
+data:
+  target: resultado_favorable
+  id_column: case_id
+  date_column: fecha_cierre
+  test_fraction: 0.20
+  expected_columns:
+    - case_id
+    - fecha_cierre
+    - materia
+    - tipo_proceso
+    - cuantia_inicial_usd
+    - rol_cliente
+    - instancia_en_t0
+    - jurisdiccion
+    - tipo_contraparte
+    - medida_cautelar_solicitada
+    - prueba_pericial_prevista
+    - resultado_favorable
+
+model:
+  baseline: logistic_regression_l2
+  C: 1.0
+  solver: lbfgs
+  max_iter: 1000
+  class_weight: null
+
+validation:
+  strategy: repeated_stratified_kfold
+  n_splits: 5
+  n_repeats: 5
+  threshold_selection: oof_macro_f1
+  threshold_grid_start: 0.10
+  threshold_grid_end: 0.90
+  threshold_grid_step: 0.005
+
+metrics:
+  - roc_auc
+  - pr_auc
+  - macro_f1
+  - balanced_accuracy
+  - precision_by_class
+  - recall_by_class
+  - brier_score
+  - log_loss
+  - confusion_matrix

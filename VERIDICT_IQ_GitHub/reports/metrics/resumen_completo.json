@@ -1,0 +1,401 @@
+{
+  "metadata": {
+    "data_mode": "synthetic_demo",
+    "disclaimer": "Métricas exclusivas de validación técnica; no representan datos ni desempeño de GRUND Abogados LLP®.",
+    "seed": 42,
+    "data_sha256": "c1a96f1adf37f9b1e85f1c8fd819e6983f7add4b5ed09042eaa1f4a018cf917c",
+    "n_total": 360,
+    "n_dev": 288,
+    "n_test": 72,
+    "period_start": "2020-01-15",
+    "period_end": "2026-06-30",
+    "target_positive_rate_total": 0.5444444444444444,
+    "target_positive_rate_dev": 0.5416666666666666,
+    "target_positive_rate_test": 0.5555555555555556,
+    "missing_percentage": 1.875,
+    "numeric_features": [
+      "cuantia_inicial_usd",
+      "medida_cautelar_solicitada",
+      "prueba_pericial_prevista"
+    ],
+    "categorical_features": [
+      "materia",
+      "tipo_proceso",
+      "rol_cliente",
+      "instancia_en_t0",
+      "jurisdiccion",
+      "tipo_contraparte"
+    ],
+    "threshold_oof": 0.48500000000000004,
+    "python": "3.13.5",
+    "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+    "versions": {
+      "numpy": "2.3.5",
+      "pandas": "2.2.3",
+      "scikit_learn": "1.8.0"
+    },
+    "model_file_sha256": "c961698979767e41f9609e1c47d5a89abc2d5613b5cabffb6e9555dc61031d66"
+  },
+  "cv_results": {
+    "B0 most_frequent": {
+      "roc_auc": {
+        "mean": 0.5,
+        "std": 0.0,
+        "n": 25
+      },
+      "pr_auc": {
+        "mean": 0.5416817906836056,
+        "std": 0.006676872369825826,
+        "n": 25
+      },
+      "f1_macro": {
+        "mean": 0.3513460447168312,
+        "std": 0.0028068626842606905,
+        "n": 25
+      },
+      "balanced_accuracy": {
+        "mean": 0.5,
+        "std": 0.0,
+        "n": 25
+      },
+      "brier": {
+        "mean": 0.4583182093163945,
+        "std": 0.006676872369825801,
+        "n": 25
+      },
+      "log_loss": {
+        "mean": 16.519462678520966,
+        "std": 0.24065887342137465,
+        "n": 25
+      }
+    },
+    "B0 stratified": {
+      "roc_auc": {
+        "mean": 0.500591570168183,
+        "std": 0.08732472421412786,
+        "n": 25
+      },
+      "pr_auc": {
+        "mean": 0.5478603929051062,
+        "std": 0.04382860483701181,
+        "n": 25
+      },
+      "f1_macro": {
+        "mean": 0.5002845022624435,
+        "std": 0.08763091287439718,
+        "n": 25
+      },
+      "balanced_accuracy": {
+        "mean": 0.500591570168183,
+        "std": 0.08732472421412786,
+        "n": 25
+      },
+      "brier": {
+        "mean": 0.4939019963702359,
+        "std": 0.08658054683349427,
+        "n": 25
+      },
+      "log_loss": {
+        "mean": 17.802032365361782,
+        "std": 3.120679220306693,
+        "n": 25
+      }
+    },
+    "B1 regresion_logistica": {
+      "roc_auc": {
+        "mean": 0.7362421882179947,
+        "std": 0.07866163674203641,
+        "n": 25
+      },
+      "pr_auc": {
+        "mean": 0.7483667663035792,
+        "std": 0.07835159688627918,
+        "n": 25
+      },
+      "f1_macro": {
+        "mean": 0.681405123662739,
+        "std": 0.07047683769042734,
+        "n": 25
+      },
+      "balanced_accuracy": {
+        "mean": 0.6816134776215422,
+        "std": 0.06965725057697389,
+        "n": 25
+      },
+      "brier": {
+        "mean": 0.2110859567292614,
+        "std": 0.035111565303576474,
+        "n": 25
+      },
+      "log_loss": {
+        "mean": 0.624648487487624,
+        "std": 0.09547198330436407,
+        "n": 25
+      }
+    }
+  },
+  "test_results": {
+    "B0 most_frequent": {
+      "roc_auc": 0.5,
+      "pr_auc": 0.5555555555555556,
+      "f1_macro": 0.35714285714285715,
+      "balanced_accuracy": 0.5,
+      "precision_0": 0.0,
+      "recall_0": 0.0,
+      "precision_1": 0.5555555555555556,
+      "recall_1": 1.0,
+      "brier": 0.4444444444444444,
+      "log_loss": 16.019401506274292,
+      "threshold": 0.5,
+      "n": 72,
+      "positive_rate": 0.5555555555555556
+    },
+    "B0 stratified": {
+      "roc_auc": 0.4625,
+      "pr_auc": 0.5380952380952382,
+      "f1_macro": 0.4618410700236035,
+      "balanced_accuracy": 0.4625,
+      "precision_0": 0.4,
+      "recall_0": 0.375,
+      "precision_1": 0.5238095238095238,
+      "recall_1": 0.55,
+      "brier": 0.5277777777777778,
+      "log_loss": 19.02303928870072,
+      "threshold": 0.5,
+      "n": 72,
+      "positive_rate": 0.5555555555555556
+    },
+    "B1 regresion_logistica": {
+      "roc_auc": 0.746875,
+      "pr_auc": 0.8255661336322699,
+      "f1_macro": 0.6246992782678429,
+      "balanced_accuracy": 0.625,
+      "precision_0": 0.6153846153846154,
+      "recall_0": 0.5,
+      "precision_1": 0.6521739130434783,
+      "recall_1": 0.75,
+      "brier": 0.20662739079053535,
+      "log_loss": 0.5829467560960078,
+      "threshold": 0.48500000000000004,
+      "n": 72,
+      "positive_rate": 0.5555555555555556,
+      "ci95": {
+        "roc_auc": [
+          0.6186726309642977,
+          0.8550513837458523
+        ],
+        "pr_auc": [
+          0.7131623306276464,
+          0.9078867565866078
+        ],
+        "f1_macro": [
+          0.5092354855157734,
+          0.7382212157721847
+        ],
+        "balanced_accuracy": [
+          0.5192289383438452,
+          0.7372147915027537
+        ],
+        "brier": [
+          0.1560377666334702,
+          0.26036786312446586
+        ]
+      }
+    }
+  },
+  "n_errors_b1": 26,
+  "top_errors": [
+    {
+      "case_id": "SYN-0342",
+      "fecha_cierre": "2026-03-03 18:31:05.181058528",
+      "materia": "Laboral",
+      "tipo_proceso": "Haberes laborales",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Rumiñahui",
+      "resultado_favorable": 0,
+      "probabilidad_favorable": 0.873093181028702,
+      "prediccion": 1,
+      "tipo_error": "Falso positivo",
+      "confianza_error": 0.873093181028702
+    },
+    {
+      "case_id": "SYN-0289",
+      "fecha_cierre": "2025-03-20 15:42:37.103064096",
+      "materia": "Civil",
+      "tipo_proceso": "Sumario",
+      "rol_cliente": "Demandado",
+      "jurisdiccion": "Mejía",
+      "resultado_favorable": 1,
+      "probabilidad_favorable": 0.1317323594689147,
+      "prediccion": 0,
+      "tipo_error": "Falso negativo",
+      "confianza_error": 0.8682676405310853
+    },
+    {
+      "case_id": "SYN-0323",
+      "fecha_cierre": "2025-10-29 23:23:53.983286912",
+      "materia": "Civil",
+      "tipo_proceso": "Ejecutivo",
+      "rol_cliente": "Demandado",
+      "jurisdiccion": "Mejía",
+      "resultado_favorable": 1,
+      "probabilidad_favorable": 0.1605704893531925,
+      "prediccion": 0,
+      "tipo_error": "Falso negativo",
+      "confianza_error": 0.8394295106468075
+    },
+    {
+      "case_id": "SYN-0333",
+      "fecha_cierre": "2026-01-03 15:46:37.771587776",
+      "materia": "Laboral",
+      "tipo_proceso": "Visto bueno",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Quito Norte",
+      "resultado_favorable": 0,
+      "probabilidad_favorable": 0.816302090221109,
+      "prediccion": 1,
+      "tipo_error": "Falso positivo",
+      "confianza_error": 0.816302090221109
+    },
+    {
+      "case_id": "SYN-0348",
+      "fecha_cierre": "2026-04-12 04:20:43.454039008",
+      "materia": "Civil",
+      "tipo_proceso": "Sumario",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Rumiñahui",
+      "resultado_favorable": 1,
+      "probabilidad_favorable": 0.21048391105469755,
+      "prediccion": 0,
+      "tipo_error": "Falso negativo",
+      "confianza_error": 0.7895160889453025
+    },
+    {
+      "case_id": "SYN-0345",
+      "fecha_cierre": "2026-03-23 11:25:54.317548768",
+      "materia": "Laboral",
+      "tipo_proceso": "Haberes laborales",
+      "rol_cliente": "Demandado",
+      "jurisdiccion": "Quito Norte",
+      "resultado_favorable": 1,
+      "probabilidad_favorable": 0.2144370483468577,
+      "prediccion": 0,
+      "tipo_error": "Falso negativo",
+      "confianza_error": 0.7855629516531423
+    },
+    {
+      "case_id": "SYN-0356",
+      "fecha_cierre": "2026-06-03 17:26:54.484679680",
+      "materia": "Civil",
+      "tipo_proceso": "Ordinario",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Quito Norte",
+      "resultado_favorable": 0,
+      "probabilidad_favorable": 0.7726267994073419,
+      "prediccion": 1,
+      "tipo_error": "Falso positivo",
+      "confianza_error": 0.7726267994073419
+    },
+    {
+      "case_id": "SYN-0341",
+      "fecha_cierre": "2026-02-25 04:52:48.802228448",
+      "materia": "Civil",
+      "tipo_proceso": "Monitorio",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Mejía",
+      "resultado_favorable": 0,
+      "probabilidad_favorable": 0.7611324243251774,
+      "prediccion": 1,
+      "tipo_error": "Falso positivo",
+      "confianza_error": 0.7611324243251774
+    },
+    {
+      "case_id": "SYN-0344",
+      "fecha_cierre": "2026-03-16 21:47:37.938718688",
+      "materia": "Civil",
+      "tipo_proceso": "Sumario",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Quito Norte",
+      "resultado_favorable": 0,
+      "probabilidad_favorable": 0.748157836531334,
+      "prediccion": 1,
+      "tipo_error": "Falso positivo",
+      "confianza_error": 0.748157836531334
+    },
+    {
+      "case_id": "SYN-0316",
+      "fecha_cierre": "2025-09-13 23:55:59.331476352",
+      "materia": "Civil",
+      "tipo_proceso": "Sumario",
+      "rol_cliente": "Actor",
+      "jurisdiccion": "Quito Norte",
+      "resultado_favorable": 0,
+      "probabilidad_favorable": 0.7106376293136606,
+      "prediccion": 1,
+      "tipo_error": "Falso positivo",
+      "confianza_error": 0.7106376293136606
+    }
+  ],
+  "top_coefficients": [
+    {
+      "feature": "cat__rol_cliente_Actor",
+      "coef": 0.7915003534030091,
+      "odds_ratio": 2.206704780812147,
+      "abs_coef": 0.7915003534030091
+    },
+    {
+      "feature": "cat__rol_cliente_Demandado",
+      "coef": -0.7907259211113711,
+      "odds_ratio": 0.45351545931460263,
+      "abs_coef": 0.7907259211113711
+    },
+    {
+      "feature": "cat__instancia_en_t0_Primera",
+      "coef": 0.6317119787400407,
+      "odds_ratio": 1.880827761746363,
+      "abs_coef": 0.6317119787400407
+    },
+    {
+      "feature": "cat__instancia_en_t0_Segunda",
+      "coef": -0.6309375464484003,
+      "odds_ratio": 0.5320927054546057,
+      "abs_coef": 0.6309375464484003
+    },
+    {
+      "feature": "num__medida_cautelar_solicitada",
+      "coef": 0.5849311535521419,
+      "odds_ratio": 1.7948674111404828,
+      "abs_coef": 0.5849311535521419
+    },
+    {
+      "feature": "num__prueba_pericial_prevista",
+      "coef": 0.5121155769115484,
+      "odds_ratio": 1.6688179758216242,
+      "abs_coef": 0.5121155769115484
+    },
+    {
+      "feature": "cat__tipo_proceso_Despido intempestivo",
+      "coef": 0.40151667952775094,
+      "odds_ratio": 1.494089034321662,
+      "abs_coef": 0.40151667952775094
+    },
+    {
+      "feature": "cat__jurisdiccion_Rumiñahui",
+      "coef": 0.3409040208223024,
+      "odds_ratio": 1.4062182667120164,
+      "abs_coef": 0.3409040208223024
+    },
+    {
+      "feature": "cat__jurisdiccion_Quito Sur",
+      "coef": -0.3382186148285871,
+      "odds_ratio": 0.7130393898741001,
+      "abs_coef": 0.3382186148285871
+    },
+    {
+      "feature": "num__cuantia_inicial_usd",
+      "coef": 0.3266879665220122,
+      "odds_ratio": 1.386368816197965,
+      "abs_coef": 0.3266879665220122
+    }
+  ]
+}

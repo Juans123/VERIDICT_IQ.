@@ -1,0 +1,11 @@
+orden,prioridad,id,tarea,componente,responsable,criterio_aceptacion
+1,P0,DAT-01,Sustituir dataset sintético por snapshot anonimizado y autorizado,Datos,Equipo + GRUND,"Dataset con hash, diccionario y permiso"
+2,P0,LAB-01,Congelar manual de etiquetado y medir acuerdo interevaluador,Ground truth,Abogados revisores,Kappa y reglas de casos ambiguos
+3,P0,QA-01,Auditar variables disponibles en t0 y excluir fugas temporales,Calidad,Data scientist + abogado,Checklist de leakage aprobado
+4,P0,EXP-01,Reejecutar B0 y B1 con splits versionados,Modelado,Data scientist,Métricas CV/test y artefactos
+5,P1,MOD-01,Comparar class_weight y transformación log1p de cuantía,Modelado,Data scientist,Experimento controlado E3/E4
+6,P1,CAL-01,Evaluar calibración sigmoid y banda de abstención,Evaluación,Data scientist + despacho,Brier/log-loss y cobertura
+7,P1,ERR-01,Revisar al menos 20 FP/FN con abogados,Análisis de errores,Equipo jurídico-técnico,Matriz de errores y acciones
+8,P1,MLOPS-01,Registrar run en MLflow y vincular git commit/data hash,MLOps,MLOps engineer,Run reproducible
+9,P2,MOD-02,Comparar Random Forest y XGBoost contra B1,Modelado,Data scientist,Promoción solo con mejora consistente
+10,P2,XAI-01,Incorporar SHAP para el modelo candidato,Explicabilidad,Data scientist,Explicaciones globales/locales

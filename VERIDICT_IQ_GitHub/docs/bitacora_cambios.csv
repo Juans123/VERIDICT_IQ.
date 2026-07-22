@@ -1,0 +1,6 @@
+fecha,tipo_commit,cambio,justificacion,artefacto
+2026-07-15,feat,Se implementó generador sintético de contingencia y esquema tabular,Permitir validar el pipeline sin exponer datos sensibles,run_demo.py
+2026-07-15,feat,"Se ejecutaron B0 most_frequent, B0 stratified y B1 logística con los mismos splits",Establecer referencia honesta y comparable,run_demo.py
+2026-07-15,fix,Preprocesamiento encapsulado dentro de Pipeline/ColumnTransformer,Evitar data leakage,run_demo.py
+2026-07-15,feat,Umbral seleccionado con predicciones OOF de desarrollo,Evitar optimización sobre test,run_demo.py
+2026-07-15,docs,"Se generaron README, model card, métricas, figuras y backlog",Asegurar trazabilidad y evidencia,reports/ y docs/

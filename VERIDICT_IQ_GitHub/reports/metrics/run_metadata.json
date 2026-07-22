@@ -1,0 +1,37 @@
+{
+  "data_mode": "synthetic_demo",
+  "disclaimer": "Métricas exclusivas de validación técnica; no representan datos ni desempeño de GRUND Abogados LLP®.",
+  "seed": 42,
+  "data_sha256": "c1a96f1adf37f9b1e85f1c8fd819e6983f7add4b5ed09042eaa1f4a018cf917c",
+  "n_total": 360,
+  "n_dev": 288,
+  "n_test": 72,
+  "period_start": "2020-01-15",
+  "period_end": "2026-06-30",
+  "target_positive_rate_total": 0.5444444444444444,
+  "target_positive_rate_dev": 0.5416666666666666,
+  "target_positive_rate_test": 0.5555555555555556,
+  "missing_percentage": 1.875,
+  "numeric_features": [
+    "cuantia_inicial_usd",
+    "medida_cautelar_solicitada",
+    "prueba_pericial_prevista"
+  ],
+  "categorical_features": [
+    "materia",
+    "tipo_proceso",
+    "rol_cliente",
+    "instancia_en_t0",
+    "jurisdiccion",
+    "tipo_contraparte"
+  ],
+  "threshold_oof": 0.48500000000000004,
+  "python": "3.13.5",
+  "platform": "Linux-4.4.0-x86_64-with-glibc2.41",
+  "versions": {
+    "numpy": "2.3.5",
+    "pandas": "2.2.3",
+    "scikit_learn": "1.8.0"
+  },
+  "model_file_sha256": "c961698979767e41f9609e1c47d5a89abc2d5613b5cabffb6e9555dc61031d66"
+}
