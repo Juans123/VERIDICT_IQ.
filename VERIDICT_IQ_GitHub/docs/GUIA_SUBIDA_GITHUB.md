@@ -33,12 +33,12 @@ git tag -a v0.1-resultados-preliminares -m "Entrega S5: informe de resultados pr
 git push origin v0.1-resultados-preliminares
 ```
 
-## Dar acceso al profesor en un repositorio privado
+## Dar acceso a colaboradores
 
 1. Abra **Settings** del repositorio.
 2. Entre en **Collaborators**.
 3. Seleccione **Add people**.
-4. Ingrese el usuario de GitHub o correo del profesor.
+4. Ingrese el usuario de GitHub o correo de las personas.
 5. Envíe la invitación.
 
 ## Verificación antes de compartir
