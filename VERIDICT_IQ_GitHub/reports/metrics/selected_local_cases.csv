@@ -1,0 +1,5 @@
+case_type,row_index,case_id,actual,predicted,probability
+verdadero_positivo,42,SYN-0331,1,1,0.9373971052979753
+verdadero_negativo,3,SYN-0292,0,0,0.0865829791935265
+falso_positivo,53,SYN-0342,0,1,0.8202174815230735
+falso_negativo,0,SYN-0289,1,0,0.13831243773946844

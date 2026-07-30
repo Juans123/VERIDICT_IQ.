@@ -1,0 +1,36 @@
+feature,mean_abs_shap,mean_shap,coefficient,odds_ratio
+numeric__is_actor,0.6164662746773272,0.16226609345208118,0.640399177927498,1.8972380637274917
+numeric__medida_cautelar_solicitada,0.37529898750609275,0.1756501383701986,0.39798178432023107,1.488816909848209
+numeric__prueba_pericial_prevista,0.30566952637363126,0.02121870975481653,0.33502477888165166,1.3979750250509948
+numeric__log_cuantia,0.27670406378340373,-0.018191866002836368,0.3577813402872958,1.4301528694725594
+numeric__is_laboral,0.2651054289877885,0.013195292845545992,0.26084201722783246,1.298022584028291
+numeric__is_segunda,0.23535244317659318,-0.0025443507370443035,-0.32005704876352625,0.7261076123506159
+numeric__is_ruminahui,0.07212278591149987,0.007973373316849233,0.1066196548721871,1.1125110358477326
+numeric__actor_medida,0.06539328446399043,0.038333994340959965,0.0787921715948507,1.0819794326420282
+numeric__is_publica,0.046955457095528154,0.019044870710074387,-0.07004154760401876,0.9323550819814688
+numeric__cuantia_missing,0.03298694193776161,-0.014431787097770718,0.06571476972477062,1.0679220700148095
+numeric__missingindicator_log_cuantia,0.004574092574504999,-0.0020011655013459344,0.009112255413081655,1.0091538984035198
+numeric__missingindicator_medida_cautelar_solicitada,0.0034093830190180547,0.0034093830190180547,-0.02080580142772413,0.979409145960204
+numeric__actor_pericial,0.0,0.0,0.0,1.0
+numeric__laboral_pericial,0.0,0.0,0.0,1.0
+numeric__missingindicator_prueba_pericial_prevista,0.0,0.0,0.0,1.0
+categorical__materia_Civil,0.0,0.0,0.0,1.0
+categorical__materia_Laboral,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Despido intempestivo,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Ejecutivo,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Haberes laborales,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Monitorio,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Ordinario,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Sumario,0.0,0.0,0.0,1.0
+categorical__tipo_proceso_Visto bueno,0.0,0.0,0.0,1.0
+categorical__rol_cliente_Actor,0.0,0.0,0.0,1.0
+categorical__rol_cliente_Demandado,0.0,0.0,0.0,1.0
+categorical__instancia_en_t0_Primera,0.0,0.0,0.0,1.0
+categorical__instancia_en_t0_Segunda,0.0,0.0,0.0,1.0
+categorical__jurisdiccion_Mejía,0.0,0.0,0.0,1.0
+categorical__jurisdiccion_Quito Norte,0.0,0.0,0.0,1.0
+categorical__jurisdiccion_Quito Sur,0.0,0.0,0.0,1.0
+categorical__jurisdiccion_Rumiñahui,0.0,0.0,0.0,1.0
+categorical__tipo_contraparte_Entidad pública,0.0,0.0,0.0,1.0
+categorical__tipo_contraparte_Persona jurídica,0.0,0.0,0.0,1.0
+categorical__tipo_contraparte_Persona natural,0.0,0.0,0.0,1.0
